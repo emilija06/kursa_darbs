@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+    style="background-color:rgb(38, 120, 126); 
+    color:black; 
+    font-family: 'Courier New'; 
+    font-size: 200%;">
+}
+p {
+  color: black;
+  font-family: 'Trebuchet MS';
+  font-size: 120%;
+}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
